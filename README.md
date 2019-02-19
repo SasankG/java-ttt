@@ -12,4 +12,4 @@
 
 ### Software
 - **Java & Swing** to make the interface and game
-- **Gradle** to run unit tests (testNG)
+- **Gradle** to run unit tests (jUnit)
